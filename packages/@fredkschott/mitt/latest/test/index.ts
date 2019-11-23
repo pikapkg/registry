@@ -10,7 +10,7 @@ const { describe, it } = spec;
 
 // Write your tests!
 describe('package', () => {
-  it('helloWorld() returns a string', () => {
-    assert(typeof pkg.helloWorld('bob') === 'string');
+  it('exports a function as default', () => {
+    assert(typeof pkg.default === 'function');
   });
 });

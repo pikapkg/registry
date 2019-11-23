@@ -1,7 +1,6 @@
 {
   "name": "@fredkschott/mitt",
-  "description": "A new package.",
-  "version": "0.0.0",
+  "description": "Tiny 200b functional event emitter / pubsub.",
   "license": "MIT",
   "dependencies": {}
 }
