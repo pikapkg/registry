@@ -1,6 +1,6 @@
 {
   "name": "@fredkschott/mitt",
-  "description": "Tiny 200b functional event emitter / pubsub.",
+  "description": "A tiny 200b functional event emitter / pubsub.",
   "license": "MIT",
   "dependencies": {}
 }
