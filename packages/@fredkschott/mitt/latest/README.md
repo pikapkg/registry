@@ -6,7 +6,7 @@
 
 # @fredkschott/mitt
 
-> A tiny 200b functional event emitter / pubsub.
+> A tiny 200b functional event emitter / pubsub.  
 > **NOTE: This is a fork of Jason Miller's [original Mitt package.](https://github.com/developit/mitt)**
 
 -   **Microscopic:** weighs less than 200 bytes gzipped
