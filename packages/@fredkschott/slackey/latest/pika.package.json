@@ -1,0 +1,6 @@
+{
+  "name": "@fredkschott/slackey",
+  "description": "The simple, easy-to-use JavaScript SDK for Slack.",
+  "license": "MIT",
+  "dependencies": {}
+}
