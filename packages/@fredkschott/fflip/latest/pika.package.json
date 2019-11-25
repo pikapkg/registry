@@ -1,0 +1,6 @@
+{
+  "name": "@fredkschott/fflip",
+  "description": "Flexible Feature Flipping/Flagging for Node.js",
+  "license": "MIT",
+  "dependencies": {}
+}
