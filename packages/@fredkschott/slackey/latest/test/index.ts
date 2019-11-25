@@ -1,4 +1,4 @@
-import * as pkg from '../src';
+import * as pkg from '../src/index';
 import { Spec } from 'pika:test';
 import { assert, eq } from 'pika:assert';
 
