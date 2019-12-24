@@ -1,17 +1,14 @@
-/*
- *
- * 🐹 Oh hi there! Welcome to your brand new pika package!
- *
- * If this is your first time, take a second to familiarize yourself with the editor.
- * Then, whenever you're ready, delete all of this and start writing!
- *
- * We can't wait to see what you build!
- *
- * Yours,
- * The Pika Team
- */
+import build from './build';
 
-// PS: Here's a dumb placeholder function to help you get started:
-export function main() {
-  return `<div>Cookie consent banner here.</div>`;
+export function main(options) {
+  const { position } = options;
+  const { text, buttonText, buttonCallback } = options;
+  const { css } = build(position);
+
+  return `<div style='${css.modal}'>
+    <div style='${css.inner}'>
+      ${text}
+      <button onclick=${buttonCallback}>${buttonText}</button>
+    </div>
+  </div>`;
 }
