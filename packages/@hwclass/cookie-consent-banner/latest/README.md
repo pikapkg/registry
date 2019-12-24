@@ -1,3 +1,3 @@
 # @hwclass/cookie-consent-banner
 
-A new package.
+Web-native library for easy & customisable cookie-banners.
