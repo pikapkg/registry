@@ -1,0 +1,6 @@
+{
+  "name": "@hwclass/cookie-consent-banner",
+  "description": "Web-native library for easy & customisable cookie-banners",
+  "license": "MIT",
+  "dependencies": {}
+}
