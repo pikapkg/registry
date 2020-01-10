@@ -1,0 +1,7 @@
+{
+  "name": "@jlarky/hello-world",
+  "description": "A new package.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {}
+}
