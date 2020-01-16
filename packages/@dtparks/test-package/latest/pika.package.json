@@ -1,0 +1,6 @@
+{
+  "name": "@dtparks/test-package",
+  "description": "A new package.",
+  "license": "MIT",
+  "dependencies": {}
+}
