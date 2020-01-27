@@ -1,0 +1,6 @@
+{
+  "name": "@n8io/noop",
+  "description": "A simple package for no-operation (noop) function",
+  "license": "MIT",
+  "dependencies": {}
+}
